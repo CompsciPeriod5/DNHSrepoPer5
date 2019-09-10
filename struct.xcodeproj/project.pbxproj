@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		03A6F0DA2328594800973BE8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0D92328594800973BE8 /* main.c */; };
+		03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0E123285A3C00973BE8 /* structQuestion.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		03A6F0D62328594800973BE8 /* struct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = struct; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A6F0D92328594800973BE8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		03A6F0E023285A3C00973BE8 /* structQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = structQuestion.h; sourceTree = "<group>"; };
+		03A6F0E123285A3C00973BE8 /* structQuestion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = structQuestion.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				03A6F0D92328594800973BE8 /* main.c */,
+				03A6F0E023285A3C00973BE8 /* structQuestion.h */,
+				03A6F0E123285A3C00973BE8 /* structQuestion.c */,
 			);
 			path = struct;
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */,
 				03A6F0DA2328594800973BE8 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

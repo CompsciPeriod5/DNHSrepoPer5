@@ -7,8 +7,8 @@
 //
 
 #include <stdio.h>
-
+#include "structQuestion.h"
 int main() {
-    Question();
+    structQuestion();
     return 0;
 }

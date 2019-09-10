@@ -10,5 +10,5 @@
 #define structQuestion_h
 
 #include <stdio.h>
-int Question(void);
+int structQuestion(void);
 #endif /* structQuestion_h */

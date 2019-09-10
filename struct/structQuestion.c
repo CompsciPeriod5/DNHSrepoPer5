@@ -7,7 +7,7 @@
 //
 
 #include "structQuestion.h"
-int Question()
+int structQuestion()
 {
     int answer;
     //The question

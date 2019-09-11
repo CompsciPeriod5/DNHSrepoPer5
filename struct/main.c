@@ -47,7 +47,4 @@ void prepareConsole(void)
 // katelyn was here
 // Connor was here
 
-
-
-
-//Nathaniel was here
+//Jett was here

@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		03A6F0D62328594800973BE8 /* struct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = struct; sourceTree = BUILT_PRODUCTS_DIR; };
+		03A6F0D62328594800973BE8 /* MidTermP5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MidTermP5; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A6F0D92328594800973BE8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		03A6F0E023285A3C00973BE8 /* structQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = structQuestion.h; sourceTree = "<group>"; };
 		03A6F0E123285A3C00973BE8 /* structQuestion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = structQuestion.c; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		03A6F0CD2328594800973BE8 = {
 			isa = PBXGroup;
 			children = (
-				03A6F0D82328594800973BE8 /* struct */,
+				03A6F0D82328594800973BE8 /* MidTerm */,
 				03A6F0D72328594800973BE8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,27 +52,27 @@
 		03A6F0D72328594800973BE8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				03A6F0D62328594800973BE8 /* struct */,
+				03A6F0D62328594800973BE8 /* MidTermP5 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		03A6F0D82328594800973BE8 /* struct */ = {
+		03A6F0D82328594800973BE8 /* MidTerm */ = {
 			isa = PBXGroup;
 			children = (
 				03A6F0D92328594800973BE8 /* main.c */,
 				03A6F0E023285A3C00973BE8 /* structQuestion.h */,
 				03A6F0E123285A3C00973BE8 /* structQuestion.c */,
 			);
-			path = struct;
+			path = MidTerm;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		03A6F0D52328594800973BE8 /* struct */ = {
+		03A6F0D52328594800973BE8 /* MidTermP5 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03A6F0DD2328594800973BE8 /* Build configuration list for PBXNativeTarget "struct" */;
+			buildConfigurationList = 03A6F0DD2328594800973BE8 /* Build configuration list for PBXNativeTarget "MidTermP5" */;
 			buildPhases = (
 				03A6F0D22328594800973BE8 /* Sources */,
 				03A6F0D32328594800973BE8 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = struct;
+			name = MidTermP5;
 			productName = struct;
-			productReference = 03A6F0D62328594800973BE8 /* struct */;
+			productReference = 03A6F0D62328594800973BE8 /* MidTermP5 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 03A6F0D12328594800973BE8 /* Build configuration list for PBXProject "struct" */;
+			buildConfigurationList = 03A6F0D12328594800973BE8 /* Build configuration list for PBXProject "MidTermP5" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				03A6F0D52328594800973BE8 /* struct */,
+				03A6F0D52328594800973BE8 /* MidTermP5 */,
 			);
 		};
 /* End PBXProject section */
@@ -261,7 +261,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		03A6F0D12328594800973BE8 /* Build configuration list for PBXProject "struct" */ = {
+		03A6F0D12328594800973BE8 /* Build configuration list for PBXProject "MidTermP5" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03A6F0DB2328594800973BE8 /* Debug */,
@@ -270,7 +270,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		03A6F0DD2328594800973BE8 /* Build configuration list for PBXNativeTarget "struct" */ = {
+		03A6F0DD2328594800973BE8 /* Build configuration list for PBXNativeTarget "MidTermP5" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03A6F0DE2328594800973BE8 /* Debug */,

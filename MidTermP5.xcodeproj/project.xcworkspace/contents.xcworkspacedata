@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:struct.xcodeproj">
+      location = "self:/Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTermP5.xcodeproj">
    </FileRef>
 </Workspace>

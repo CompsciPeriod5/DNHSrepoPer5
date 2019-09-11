@@ -39,6 +39,8 @@ void prepareConsole(void)
 //Tanmay is cooler than all of you combined lmao here is my mark
 //Ethan is lowkey cooler than him ^
 //UWUWUWU Aidan is here 
+//Sophie Bulkin
+// benny is here
 // Tanay was here
 //Suha was here
 

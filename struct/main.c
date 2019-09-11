@@ -30,7 +30,7 @@ void prepareConsole(void)
 }
 
 // Mr M was here
-// Nakul is the best coder
+// Nakul is not the best coder
 // Andrew H is the
 // N
 //Yeet - Roop
@@ -39,3 +39,5 @@ void prepareConsole(void)
 //Tanmay is cooler than all of you combined lmao here is my mark
 //UWUWUWU Aidan is here 
 // Tanay was here
+
+//nathaniel C is here

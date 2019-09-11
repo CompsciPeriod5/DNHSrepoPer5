@@ -30,7 +30,7 @@ void prepareConsole(void)
 }
 
 // Mr M was here
-// Nakul is not the best coder
+// Nakul is the best coder
 // Andrew H is the
 // N
 //Yeet - Roop

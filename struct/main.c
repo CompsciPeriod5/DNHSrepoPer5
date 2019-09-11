@@ -28,3 +28,5 @@ void prepareConsole(void)
 {
     printf("\033"); // clear console
 }
+
+// Mr M was here

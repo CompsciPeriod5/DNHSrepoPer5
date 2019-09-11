@@ -33,8 +33,12 @@ void prepareConsole(void)
 // Nakul is the best coder
 // Andrew H is the
 // N
+//Yeet - Roop
 //Michael was here
 //Andrew was here
 //Tanmay is cooler than all of you combined lmao here is my mark
 //Ethan is lowkey cooler than him ^
+//UWUWUWU Aidan is here 
+// Tanay was here
+//Suha was here
 

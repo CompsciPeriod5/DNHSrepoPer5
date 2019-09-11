@@ -6,10 +6,10 @@
 //  Copyright © 2019 Marwah, Tanmay. All rights reserved.
 //
 
-#include "Operators_Questions.h"
+#include "operatorsQuestions.h"
 
 
-int Operators_Questions(void)
+int operatorsQuestions(void)
 {
     char ans1;
     

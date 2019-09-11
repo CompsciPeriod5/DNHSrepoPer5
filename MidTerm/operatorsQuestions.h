@@ -6,9 +6,9 @@
 //  Copyright © 2019 Marwah, Tanmay. All rights reserved.
 //
 
-#ifndef Operators_Questions_h
-#define Operators_Questions_h
+#ifndef operatorsQuestions_h
+#define operatorsQuestions_h
 
 #include <stdio.h>
-int Operators_Questions(void);
-#endif /* Operators_Questions_h */
+int operatorsQuestions(void);
+#endif /* operatorsQuestions_h */

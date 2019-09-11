@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		03A6F0DA2328594800973BE8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0D92328594800973BE8 /* main.c */; };
 		03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0E123285A3C00973BE8 /* structQuestion.c */; };
-		6D9223AE2329BABD00CDDB34 /* Operators_Questions.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */; };
+		6D9223AE2329BABD00CDDB34 /* operatorsQuestions.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223AD2329BABD00CDDB34 /* operatorsQuestions.c */; };
 		6D9223B62329BEBF00CDDB34 /* cfop.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B42329BEBE00CDDB34 /* cfop.c */; };
-		6D9223B82329BEDE00CDDB34 /* questionPO.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B72329BEDE00CDDB34 /* questionPO.c */; };
+		6D9223B82329BEDE00CDDB34 /* productOwnerQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,11 +31,11 @@
 		03A6F0D92328594800973BE8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		03A6F0E023285A3C00973BE8 /* structQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = structQuestion.h; sourceTree = "<group>"; };
 		03A6F0E123285A3C00973BE8 /* structQuestion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = structQuestion.c; sourceTree = "<group>"; };
-		6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Operators_Questions.c; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.c; sourceTree = "<absolute>"; };
-		6D9223B32329BAC700CDDB34 /* Operators_Questions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Operators_Questions.h; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.h; sourceTree = "<absolute>"; };
+		6D9223AD2329BABD00CDDB34 /* operatorsQuestions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = operatorsQuestions.c; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/operatorsQuestions.c; sourceTree = "<absolute>"; };
+		6D9223B32329BAC700CDDB34 /* operatorsQuestions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = operatorsQuestions.h; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/operatorsQuestions.h; sourceTree = "<absolute>"; };
 		6D9223B42329BEBE00CDDB34 /* cfop.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = cfop.c; sourceTree = "<group>"; };
 		6D9223B52329BEBE00CDDB34 /* cfop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cfop.h; sourceTree = "<group>"; };
-		6D9223B72329BEDE00CDDB34 /* questionPO.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = questionPO.c; sourceTree = "<group>"; };
+		6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = productOwnerQuestion.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,11 +68,11 @@
 		03A6F0D82328594800973BE8 /* MidTerm */ = {
 			isa = PBXGroup;
 			children = (
-				6D9223B72329BEDE00CDDB34 /* questionPO.c */,
+				6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */,
 				6D9223B42329BEBE00CDDB34 /* cfop.c */,
 				6D9223B52329BEBE00CDDB34 /* cfop.h */,
-				6D9223B32329BAC700CDDB34 /* Operators_Questions.h */,
-				6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */,
+				6D9223B32329BAC700CDDB34 /* operatorsQuestions.h */,
+				6D9223AD2329BABD00CDDB34 /* operatorsQuestions.c */,
 				03A6F0D92328594800973BE8 /* main.c */,
 				03A6F0E023285A3C00973BE8 /* structQuestion.h */,
 				03A6F0E123285A3C00973BE8 /* structQuestion.c */,
@@ -137,8 +137,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */,
-				6D9223B82329BEDE00CDDB34 /* questionPO.c in Sources */,
-				6D9223AE2329BABD00CDDB34 /* Operators_Questions.c in Sources */,
+				6D9223B82329BEDE00CDDB34 /* productOwnerQuestion.c in Sources */,
+				6D9223AE2329BABD00CDDB34 /* operatorsQuestions.c in Sources */,
 				03A6F0DA2328594800973BE8 /* main.c in Sources */,
 				6D9223B62329BEBF00CDDB34 /* cfop.c in Sources */,
 			);

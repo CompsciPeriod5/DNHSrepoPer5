@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTermP5.xcodeproj">
+      location = "group:/Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.c">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.h">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

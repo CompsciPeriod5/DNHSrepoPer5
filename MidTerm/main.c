@@ -29,10 +29,10 @@ void prepareConsole(void)
     printf("\033"); // clear console
 }
 
-// Mr M was here
-// Nakul is the best coder
-// Andrew H is the
-// N
+//Mr M was here
+//Nakul is the best coder
+//Andrew H is the
+//N
 //Yeet - Roop
 //Michael was here
 //Andrew was here
@@ -40,14 +40,12 @@ void prepareConsole(void)
 //Ethan is lowkey cooler than him ^
 //UWUWUWU Aidan is here 
 //Sophie Bulkin
-// benny is here
-// Tanay was here
+//benny is here
+//Tanay was here
 //Suha was here
 //ashika was here
-// katelyn was here
-// Connor was here
-
+//katelyn was here
+//Connor was here
 //Jett Kim was here
-
 //nathaniel Cherian was here
 //Mabel says hi

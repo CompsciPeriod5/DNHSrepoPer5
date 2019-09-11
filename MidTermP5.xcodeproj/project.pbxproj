@@ -10,6 +10,8 @@
 		03A6F0DA2328594800973BE8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0D92328594800973BE8 /* main.c */; };
 		03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0E123285A3C00973BE8 /* structQuestion.c */; };
 		6D9223AE2329BABD00CDDB34 /* Operators_Questions.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */; };
+		6D9223B62329BEBF00CDDB34 /* cfop.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B42329BEBE00CDDB34 /* cfop.c */; };
+		6D9223B82329BEDE00CDDB34 /* questionPO.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B72329BEDE00CDDB34 /* questionPO.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,9 @@
 		03A6F0E123285A3C00973BE8 /* structQuestion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = structQuestion.c; sourceTree = "<group>"; };
 		6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Operators_Questions.c; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.c; sourceTree = "<absolute>"; };
 		6D9223B32329BAC700CDDB34 /* Operators_Questions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Operators_Questions.h; path = /Users/johnmortensen/Documents/GitHub/DNHSrepoPer5/MidTerm/Operators_Questions.h; sourceTree = "<absolute>"; };
+		6D9223B42329BEBE00CDDB34 /* cfop.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = cfop.c; sourceTree = "<group>"; };
+		6D9223B52329BEBE00CDDB34 /* cfop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cfop.h; sourceTree = "<group>"; };
+		6D9223B72329BEDE00CDDB34 /* questionPO.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = questionPO.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +68,9 @@
 		03A6F0D82328594800973BE8 /* MidTerm */ = {
 			isa = PBXGroup;
 			children = (
+				6D9223B72329BEDE00CDDB34 /* questionPO.c */,
+				6D9223B42329BEBE00CDDB34 /* cfop.c */,
+				6D9223B52329BEBE00CDDB34 /* cfop.h */,
 				6D9223B32329BAC700CDDB34 /* Operators_Questions.h */,
 				6D9223AD2329BABD00CDDB34 /* Operators_Questions.c */,
 				03A6F0D92328594800973BE8 /* main.c */,
@@ -129,8 +137,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */,
+				6D9223B82329BEDE00CDDB34 /* questionPO.c in Sources */,
 				6D9223AE2329BABD00CDDB34 /* Operators_Questions.c in Sources */,
 				03A6F0DA2328594800973BE8 /* main.c in Sources */,
+				6D9223B62329BEBF00CDDB34 /* cfop.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

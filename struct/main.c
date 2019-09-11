@@ -40,4 +40,17 @@ void prepareConsole(void)
 //UWUWUWU Aidan is here 
 // Tanay was here
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 //nathaniel C is here

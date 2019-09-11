@@ -34,3 +34,6 @@ void prepareConsole(void)
 // Andrew H is the
 // N
 //Yeet - Roop
+//Michael was here
+//Andrew was here
+//Tanmay is cooler than all of you combined lmao here is my mark

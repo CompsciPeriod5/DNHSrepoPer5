@@ -11,7 +11,7 @@
 
 // external includes from team headers
 #include "structQuestion.h"
-
+#include "cfop.h"
 // protoype for internal functions
 void prepareConsole(void);
 
@@ -20,6 +20,8 @@ int main() {
     prepareConsole();
     
     structQuestion();
+    cfop();
+    cfop2();
     return 0;
 }
 

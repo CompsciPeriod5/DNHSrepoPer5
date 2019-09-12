@@ -29,11 +29,11 @@ int cfop(void)
     puts("B) /n");
     puts("C) \\n"); // escape sequence
     puts("D) ;n");
-    printf("Answer:");
+    printf("Answer: ");
     
     char answer; //Create variable
-    scanf("%c", &answer); //have the user assign a value to the variable
-    
+    //have the user assign a value to the variable
+    while( (answer=getchar() != '\n') && answer != EOF);
     if(answer == 'c')
     {
         printf("You have entered the correct answer\n"); //correct answer
@@ -58,7 +58,6 @@ int cfop2(void)
     
     char new [2];
     scanf("%s", new); //have the user assign a value to the variable
-    
     if(strcmp(new, "a") == 0)
     {
         printf("You have entered the correct answer\n"); //correct answer

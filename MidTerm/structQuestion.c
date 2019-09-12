@@ -17,7 +17,7 @@ int structQuestion()
     printf("B. an output is created\n");
     printf("C. nothing happens\n");    //User input
     puts("Enter your answer from A to C \n");
-    answer = getchar();
+    while( (answer=getchar() != '\n') && answer != EOF);
     switch(answer)
     {
         case 'A':

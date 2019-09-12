@@ -9,7 +9,7 @@
 #include "structQuestion.h"
 int structQuestion()
 {
-    int answer;
+    char answer;
     //The question
     
     printf("What occurs after a function in a line of code?\n");
@@ -17,7 +17,8 @@ int structQuestion()
     printf("B. an output is created\n");
     printf("C. nothing happens\n");    //User input
     puts("Enter your answer from A to C \n");
-    while( (answer=getchar() != '\n') && answer != EOF);
+    //while( (answer=getchar() != '\n') && answer != EOF);
+    //scanf("%s", &answer);
     switch(answer)
     {
         case 'A':
@@ -34,7 +35,7 @@ int structQuestion()
             puts("Very good, you are correct!!");
             break;
         default:
-            puts("You responded with an inappropriate number");
+           puts("You responded with an inappropriate number");
     }
     return 0;
     

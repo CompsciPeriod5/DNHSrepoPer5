@@ -68,12 +68,12 @@
 		03A6F0D82328594800973BE8 /* MidTerm */ = {
 			isa = PBXGroup;
 			children = (
+				03A6F0D92328594800973BE8 /* main.c */,
 				6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */,
 				6D9223B42329BEBE00CDDB34 /* cfop.c */,
 				6D9223B52329BEBE00CDDB34 /* cfop.h */,
 				6D9223B32329BAC700CDDB34 /* operatorsQuestions.h */,
 				6D9223AD2329BABD00CDDB34 /* operatorsQuestions.c */,
-				03A6F0D92328594800973BE8 /* main.c */,
 				03A6F0E023285A3C00973BE8 /* structQuestion.h */,
 				03A6F0E123285A3C00973BE8 /* structQuestion.c */,
 			);

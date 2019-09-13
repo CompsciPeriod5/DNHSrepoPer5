@@ -32,8 +32,9 @@ int cfop(void)
     printf("Answer: ");
     
     char answer; //Create variable
-    //have the user assign a value to the variable
-    while( (answer=getchar() != '\n') && answer != EOF);
+    
+    //scanf("%s", &answer);     //have the user assign a value to the variable
+    //while( (answer=getchar() != '\n') && answer != EOF);
     if(answer == 'c')
     {
         printf("You have entered the correct answer\n"); //correct answer

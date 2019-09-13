@@ -23,7 +23,7 @@ int main() {
     
     structQuestion();
     cfop();
-
+    cfop2();
     return 0;
 }
 

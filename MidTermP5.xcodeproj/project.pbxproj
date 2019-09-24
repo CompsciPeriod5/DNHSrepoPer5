@@ -11,6 +11,7 @@
 		03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 03A6F0E123285A3C00973BE8 /* structQuestion.c */; };
 		6D9223B62329BEBF00CDDB34 /* cfop.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B42329BEBE00CDDB34 /* cfop.c */; };
 		6D9223B82329BEDE00CDDB34 /* productOwnerQuestion.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */; };
+		C4547952233AC72A00EEE454 /* datatypesQuestions.c in Sources */ = {isa = PBXBuildFile; fileRef = C4547951233AC72A00EEE454 /* datatypesQuestions.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,8 @@
 		6D9223B42329BEBE00CDDB34 /* cfop.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = cfop.c; sourceTree = "<group>"; };
 		6D9223B52329BEBE00CDDB34 /* cfop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cfop.h; sourceTree = "<group>"; };
 		6D9223B72329BEDE00CDDB34 /* productOwnerQuestion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = productOwnerQuestion.c; sourceTree = "<group>"; };
+		C4547950233AC72A00EEE454 /* datatypesQuestions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = datatypesQuestions.h; sourceTree = "<group>"; };
+		C4547951233AC72A00EEE454 /* datatypesQuestions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = datatypesQuestions.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,8 @@
 				6D9223B52329BEBE00CDDB34 /* cfop.h */,
 				03A6F0E023285A3C00973BE8 /* structQuestion.h */,
 				03A6F0E123285A3C00973BE8 /* structQuestion.c */,
+				C4547951233AC72A00EEE454 /* datatypesQuestions.c */,
+				C4547950233AC72A00EEE454 /* datatypesQuestions.h */,
 			);
 			path = MidTerm;
 			sourceTree = "<group>";
@@ -131,6 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4547952233AC72A00EEE454 /* datatypesQuestions.c in Sources */,
 				03A6F0E223285A3C00973BE8 /* structQuestion.c in Sources */,
 				6D9223B82329BEDE00CDDB34 /* productOwnerQuestion.c in Sources */,
 				03A6F0DA2328594800973BE8 /* main.c in Sources */,

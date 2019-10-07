@@ -13,7 +13,7 @@
 #include "structQuestion.h"
 #include "cfop.h"
 #include "datatypesQuestions.h"
-
+#include "operatorRLQuestions.h"
 // protoype for internal functions
 void prepareConsole(void);
 
@@ -25,6 +25,7 @@ int main() {
     cfop();
     cfop2();
     datatypesQuestions();
+    opQuestions();
     return 0;
 }
 
